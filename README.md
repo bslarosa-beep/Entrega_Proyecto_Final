@@ -6,7 +6,7 @@ Este repositorio contiene un conjunto de pruebas de automatización (E2E) para e
 
 ## Tecnologías Utilizadas
 
-* **Python 3.x**
+* **Python 3.14.1
 * **Selenium:** Para la automatización del navegador.
 * **Pytest:** Como framework para la ejecución de pruebas y manejo de fixtures.
 * **ChromeDriver:** Como el driver específico para Google Chrome.
@@ -18,11 +18,8 @@ Este repositorio contiene un conjunto de pruebas de automatización (E2E) para e
 Antes de empezar, asegúrate de tener instalado:
 * [Python 3](https://www.python.org/downloads/)
 * [Google Chrome](https://www.google.com/chrome/)
-* Tener **ChromeDriver** en el PATH del sistema o en la carpeta del proyecto. (La versión debe ser compatible con tu versión de Google Chrome).
+* Tener **ChromeDriver** en el PATH del sistema o en la carpeta del proyecto.
 ---
-##  Cómo Ejecutar las Pruebas
-
-Una vez que el entorno esté configurado, puedes ejecutar las pruebas usando Pytest.
 
 ### 1. Ejecutar todas las pruebas
 
